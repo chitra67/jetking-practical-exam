@@ -1,0 +1,14 @@
+HOW TO mint your created cryptocurrency token on binance blockchain?
+  
+
+STEP 1:download "metamask wallet" from your default browser or chrome extension.
+STEP 2:then,create your account as per the instructions.
+STEP 3:click on network and then scroll down to add a network.
+STEP 4:again scroll down and click on add a network manually.
+STEP5: open your browser and type "academy.binance.com metamask''or how to connect metamask to binance smart chain.
+STEP 6:click on first link and then scroll down and go to smart chain testnet.
+STEP 7:copy and paste network name,url etc as per the instructions.
+STEP8 :click on save and your BNB testnet is added.
+STEP 9:open your default browser and type mint bnb testnet faucet.
+STEP 10:click on first link.copy your wallet address and paste it into the box given in the page.
+STEP 11:you got your own mint cryptocurrency token on binance blockchain.
